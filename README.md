@@ -1,11 +1,18 @@
-# module-02-Challenge
 
-## This is a working portfolio of my work to be eventually presented to potential employers.
+# Web Dev. Portfolio
 
--My motivation to create this project is because this is really the first of my projects that an employer will see, so you cna imagine the immportance.
--I buult this project in order to give myself some practical and real life understanding of how to create a simple web page and style it.
--This web page solves the problem of potential future employers having to go through a hassle to view my projects and work. I think this is a very practical project.
--Throughout the making of this web page I've learned the importance of trial and error and esepcially debugging when it coems to writing your own code from scratch.
+- This is a portfolio project tthat will display all of my work throughout my web developing career. The page will be clear and modern looking and also be fully functional to display my talent.
 
-##Installation
-All that is needed to get my application running on a browser is to open the live link to it.
+- My motivation for this project is to showcase my work throughout my programming career and also to display growth from when I started coding.
+
+- I built this project in order to test myself as to how much I will grow from the beginnings of when I first began coding all the way to when I get my certificate in full stack web development.
+
+- It solves the problem of employers having to go through a hassle and open a bunch of links to view a possible future employee's work. This project makes it easy and simple to do this.
+
+- I learned how to use css in order to manipulate colors, positioning, behavior, and also sizing in the dom.
+
+- A finished photo of my webpage will is here.
+- ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
